@@ -1,0 +1,38 @@
+body{
+    background-color:darkturquoise;
+    font-family: 'Roboto', sans-serif;
+}
+.header_div{
+    background-color:mediumblue;
+    color:darkturquoise;
+    text-align:center;
+}
+.header_div p {
+    font-family: 'Kaisei Opti', serif;
+    color:maroon;
+    letter-spacing:2px;
+    font-size:15px;
+    font-weight:bold;
+}
+.main-div button{
+    font-family:'Roboto', sans-serif;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
+.main-div{
+    color:mediumblue;
+    font-weight:bold;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom:0;
+    text-align:center;
+    width:100%;
+    line-height:3;
+    background-color:mediumblue;
+    color:darkturquoise;
+    text-shadow:5px 5px 5px purple;
+}
+
